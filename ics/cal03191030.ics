@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:iacmac.ru
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETTO:+0300
+TZOFFSETFROM:+0300
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Moscow:20190319T103000
+DTEND;TZID=Europe/Moscow:20190319T110000
+SUMMARY:Внедрение новых антибиотиков в клиническую практику: как достичь консенсуса между потребностями и возможностями?
+LOCATION:Нижний Новгород, ул. Белинского, 59, ГБУК НО «Нижегородский государственный академический театр оперы и балета им. А.С. Пушкина»
+DESCRIPTION:Докладчик: Зырянов Сергей Кенсаринович, Москва, Россия
+PRIORITY:3
+END:VEVENT
+END:VCALENDAR
