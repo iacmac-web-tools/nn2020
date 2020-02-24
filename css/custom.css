@@ -70,6 +70,10 @@
   color: black;
 }
 
+.card-container > a:first-of-type {
+  margin-top: 0em;
+}
+
 .card-img-container-person {
   order: 2;
   flex-basis: 50%;
@@ -217,6 +221,10 @@ a.btn-green {
 
 a.btn-green:hover {
   background-color: rgb(75, 183, 141);
+}
+
+span.btn-text { 
+  margin-left: 0.25em;
 }
 
 button.btn-green {
