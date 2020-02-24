@@ -90,12 +90,12 @@
 }
 
 .card-person-desc {
-    font-size: 0.75em;
-    line-height: 1.25;
-    margin: 0;
-    margin-top: 0.5em;
+  font-size: 0.75em;
+  line-height: 1.25;
+  margin: 0;
+  margin-top: 0.5em;
 }
-  
+
 .card-container-person-info {
   flex-basis: 100%;
   order: 3;
@@ -149,7 +149,7 @@
     order: 2;
   }
 
-  .card-container-person { 
+  .card-container-person {
     flex-wrap: nowrap;
   }
 
@@ -164,16 +164,12 @@
     margin-top: 1.25em;
     margin-bottom: 0em;
   }
-  
 }
 
-@media screen and (min-width: 400) { 
-
-
+@media screen and (min-width: 400) {
 }
 
 /* END OF CARDS */
-
 
 /* CUSTOM header */
 .list-header-title {
@@ -191,14 +187,17 @@
 /* END CUSTOM HEADER */
 
 /* BUTTONS */
-a.btn-green{
+a.btn-green {
   border-radius: 4px;
-  -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.08);
-  -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.08);
-  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.08);
+  -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2),
+    0 1px 2px rgba(0, 0, 0, 0.08);
+  -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2),
+    0 1px 2px rgba(0, 0, 0, 0.08);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2),
+    0 1px 2px rgba(0, 0, 0, 0.08);
   color: #fff;
-  display:block;
-  width:100px;
+  display: block;
+  width: 100px;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
@@ -209,14 +208,234 @@ a.btn-green{
   -webkit-transition: background-color 0.1s linear;
   -moz-transition: background-color 0.1s linear;
   -o-transition: background-color 0.1s linear;
-  transition: background-color 0.1s linear;        
-  }
-  a.btn-green {
-  background-color: rgb( 43, 153, 91 );
-  border: 1px solid rgb( 33, 126, 74 );
-  }
-          
-  a.btn-green:hover {
-  background-color: rgb( 75, 183, 141 );
-  }
+  transition: background-color 0.1s linear;
+}
+a.btn-green {
+  background-color: rgb(43, 153, 91);
+  border: 1px solid rgb(33, 126, 74);
+}
+
+a.btn-green:hover {
+  background-color: rgb(75, 183, 141);
+}
+
+button.btn-green {
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2),
+    0 1px 2px rgba(0, 0, 0, 0.08);
+  -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2),
+    0 1px 2px rgba(0, 0, 0, 0.08);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2),
+    0 1px 2px rgba(0, 0, 0, 0.08);
+  color: #fff;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  padding: 8px 16px;
+  text-decoration: none;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.075);
+  -webkit-transition: background-color 0.1s linear;
+  -moz-transition: background-color 0.1s linear;
+  -o-transition: background-color 0.1s linear;
+  transition: background-color 0.1s linear;
+}
+button.btn-green {
+  background-color: rgb(43, 153, 91);
+  border: 1px solid rgb(33, 126, 74);
+}
+
+button.btn-green:hover {
+  background-color: rgb(75, 183, 141);
+}
+
+button.btn-gray {
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2),
+    0 1px 2px rgba(0, 0, 0, 0.08);
+  -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2),
+    0 1px 2px rgba(0, 0, 0, 0.08);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2),
+    0 1px 2px rgba(0, 0, 0, 0.08);
+  color: #fff;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  padding: 8px 16px;
+  text-decoration: none;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.075);
+  -webkit-transition: background-color 0.1s linear;
+  -moz-transition: background-color 0.1s linear;
+  -o-transition: background-color 0.1s linear;
+  transition: background-color 0.1s linear;
+}
+button.btn-gray {
+  background-color: #6c757d;
+  border: 1px solid #6c757d;
+}
+
+button.btn-gray:hover {
+  background-color:#6c7575;
+}
 /* END BUTTONS */
+
+/* SLACK MODAL */
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0, 0, 0); /* Fallback color */
+  background-color: rgba(0, 0, 0, 0.4); /* Black w/ opacity */
+  -webkit-animation-name: fadeIn; /* Fade in the background */
+  -webkit-animation-duration: 0.4s;
+  animation-name: fadeIn;
+  animation-duration: 0.4s;
+}
+
+.btn-slack-modal { 
+  display: block;
+}
+
+/* Modal Content */
+.modal-content {
+  position: fixed;
+  bottom: 0;
+  background-color: #fefefe;
+  width: 100%;
+  -webkit-animation-name: slideIn;
+  -webkit-animation-duration: 0.4s;
+  animation-name: slideIn;
+  animation-duration: 0.4s;
+}
+
+/* The Close Button */
+.close {
+  color: white;
+  float: right;
+  cursor: pointer;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.modal-header {
+  padding: 0.5em;
+  background-color: #5cb85c;
+  color: white;
+}
+
+.modal-header > h1,
+h2,
+h3,
+h4,
+h5 {
+  margin: 0px;
+}
+
+.modal-title { 
+  font-size: 1.5rem;
+  margin: 0.25rem;
+}
+
+.modal-body {
+  padding: 0.5em;
+}
+
+.modal-footer {
+  padding: 0.5em;
+  color: white;
+}
+
+.modal-footer > h1,
+h2,
+h3,
+h4,
+h5 {
+  margin: 0px;
+}
+
+.form-group {
+  margin-bottom: 1rem;
+}
+
+.form-control {
+  display: block;
+  width: 90%;
+  font-size: 1rem;
+  padding: .375rem .75rem;
+  font-weight: 400;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.form-text {
+  display: block;
+  margin-top: .25rem;
+}
+
+.small, small {
+  font-size: 80%;
+  font-weight: 400;
+}
+.text-muted {
+  color: 
+  #6c757d !important;
+}
+
+/* Add Animation */
+@-webkit-keyframes slideIn {
+  from {
+    bottom: -300px;
+    opacity: 0;
+  }
+  to {
+    bottom: 0;
+    opacity: 1;
+  }
+}
+
+@keyframes slideIn {
+  from {
+    bottom: -300px;
+    opacity: 0;
+  }
+  to {
+    bottom: 0;
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+/* END OF SLACK MODAL */
