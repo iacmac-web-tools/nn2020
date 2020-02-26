@@ -1,8 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:iacmac.ru
-CALSCALE:GREGORIAN
-METHOD:PUBLISH
 BEGIN:VTIMEZONE
 TZID:Europe/Moscow
 BEGIN:STANDARD
@@ -11,11 +9,12 @@ TZOFFSETFROM:+0300
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:190311001145
+DTSTAMP:20190319T093000
 DTSTART;TZID=Europe/Moscow:20190319T110000
 DTEND;TZID=Europe/Moscow:20190319T114500
 SUMMARY:Вакцинация: польза или риск?
-LOCATION:Нижний Новгород, ул. Белинского, 59, ГБУК НО «Нижегородский государственный академический театр оперы и балета им. А.С. Пушкина»
+LOCATION:Нижний Новгород, ул. Белинского, 59
 DESCRIPTION:Докладчик: МакИнтош Дэвид, Лондон, Великобритания
-PRIORITY:3
 END:VEVENT
 END:VCALENDAR
