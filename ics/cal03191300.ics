@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:iacmac.ru
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETTO:+0300
+TZOFFSETFROM:+0300
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:20190319T130000
+DTSTAMP:20190319T093000
+DTSTART;TZID=Europe/Moscow:20190319T130000
+DTEND;TZID=Europe/Moscow:20190319T133000
+SUMMARY:Антибактериальная терапия госпитальных инфекций в педиатрии: легальные возможности
+LOCATION:Нижний Новгород, ул. Белинского, 59
+DESCRIPTION:Докладчик: Широкова Татьяна Михайловна, г. Киров, Россия
+END:VEVENT
+END:VCALENDAR
