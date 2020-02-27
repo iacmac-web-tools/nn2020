@@ -135,6 +135,10 @@
     flex-wrap: nowrap;
   }
 
+  .mobile-only{ 
+    display: none;
+  }
+
   .event-card-no-border {
     flex-wrap: nowrap;
   }
@@ -226,6 +230,8 @@ a.btn-green:hover {
 span.btn-text { 
   margin-left: 0.25em;
 }
+
+
 
 button.btn-green {
   border-radius: 4px;
