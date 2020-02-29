@@ -11,8 +11,8 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:190309301000
 DTSTAMP:20190319T093000
-DTSTART;TZID=Europe/Moscow:20190319T093000
-DTEND;TZID=Europe/Moscow:20190319T100000
+DTSTART;TZID=Europe/Moscow:20200319T093000
+DTEND;TZID=Europe/Moscow:20200319T100000
 SUMMARY:Перспективные направления контроля антибиотикорезистентности
 LOCATION:Нижний Новгород, ул. Белинского, 59
 DESCRIPTION:Докладчик: Козлов Роман Сергеевич, Смоленск, Россия

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:iacmac.ru
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETTO:+0300
+TZOFFSETFROM:+0300
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:20200320T121500
+DTSTAMP:20190320T121500
+DTSTART;TZID=Europe/Moscow:20200320T121500
+DTEND;TZID=Europe/Moscow:20200320T124500
+SUMMARY:Инфекционный контроль в вопросах и ответах: предварительные результаты проекта «Эффективный стационар»
+LOCATION:Нижний Новгород, ул. Белинского, 59
+DESCRIPTION:Докладчик: Ершова Ольга Николаевна, Москва, Россия
+END:VEVENT
+END:VCALENDAR

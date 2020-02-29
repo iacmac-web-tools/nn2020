@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:iacmac.ru
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETTO:+0300
+TZOFFSETFROM:+0300
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:20190320T100000
+DTSTAMP:20190319T100000
+DTSTART;TZID=Europe/Moscow:20200320T100000
+DTEND;TZID=Europe/Moscow:20200320T103000
+SUMMARY:Обзор международных рекомендаций по диагностике и терапии грибковых инфекций
+LOCATION:Нижний Новгород, ул. Белинского, 59
+DESCRIPTION:Докладчик: Климко Николай Николаевич, Санкт-Петербург, Россия
+END:VEVENT
+END:VCALENDAR

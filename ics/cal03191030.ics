@@ -11,8 +11,8 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:20190319T103000
 DTSTAMP:20190319T10301100
-DTSTART;TZID=Europe/Moscow:20190319T103000
-DTEND;TZID=Europe/Moscow:20190319T110000
+DTSTART;TZID=Europe/Moscow:20200319T103000
+DTEND;TZID=Europe/Moscow:20200319T110000
 SUMMARY:Внедрение новых антибиотиков в клиническую практику: как достичь консенсуса между потребностями и возможностями?
 LOCATION:Нижний Новгород, ул. Белинского, 59
 DESCRIPTION:Докладчик: Зырянов Сергей Кенсаринович, Москва, Россия

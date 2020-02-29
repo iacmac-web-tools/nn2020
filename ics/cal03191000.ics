@@ -11,8 +11,8 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:190310001030
 DTSTAMP:20190319T100000
-DTSTART;TZID=Europe/Moscow:20190319T100000
-DTEND;TZID=Europe/Moscow:20190319T103000
+DTSTART;TZID=Europe/Moscow:20200319T100000
+DTEND;TZID=Europe/Moscow:20200319T103000
 SUMMARY:Как улучшить микробиологическую диагностику сепсиса?
 LOCATION:Нижний Новгород, ул. Белинского, 59
 DESCRIPTION:Докладчик: Иделевич Евгений Александрович, Мюнстер, Германия

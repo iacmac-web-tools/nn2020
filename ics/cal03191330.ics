@@ -11,8 +11,8 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:20190319T133000
 DTSTAMP:20190319T093000
-DTSTART;TZID=Europe/Moscow:20190319T133000
-DTEND;TZID=Europe/Moscow:20190319T140000
+DTSTART;TZID=Europe/Moscow:20200319T133000
+DTEND;TZID=Europe/Moscow:20200319T140000
 SUMMARY:Безопасность применения антибиотиков у беременных
 LOCATION:Нижний Новгород, ул. Белинского, 59
 DESCRIPTION:Докладчик: Стецюк Ольга Ульяновна, г. Смоленск, Россия

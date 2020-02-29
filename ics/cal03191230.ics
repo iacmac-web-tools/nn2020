@@ -11,8 +11,8 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:190311001145
 DTSTAMP:20190319T093000
-DTSTART;TZID=Europe/Moscow:20190319T123000
-DTEND;TZID=Europe/Moscow:20190319T130000
+DTSTART;TZID=Europe/Moscow:20200319T123000
+DTEND;TZID=Europe/Moscow:20200319T130000
 SUMMARY:Концепция профилактики инфекций в родовспоможении
 LOCATION:Нижний Новгород, ул. Белинского, 59
 DESCRIPTION:Докладчик: Припутневич Татьяна Валерьевна, г. Москва, Россия

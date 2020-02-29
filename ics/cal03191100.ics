@@ -11,8 +11,8 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:190311001145
 DTSTAMP:20190319T093000
-DTSTART;TZID=Europe/Moscow:20190319T110000
-DTEND;TZID=Europe/Moscow:20190319T114500
+DTSTART;TZID=Europe/Moscow:20200319T110000
+DTEND;TZID=Europe/Moscow:20200319T114500
 SUMMARY:Вакцинация: польза или риск?
 LOCATION:Нижний Новгород, ул. Белинского, 59
 DESCRIPTION:Докладчик: МакИнтош Дэвид, Лондон, Великобритания
