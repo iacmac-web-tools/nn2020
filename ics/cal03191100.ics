@@ -5,11 +5,11 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:715c097a-ec49-4053-ab80-0b259e12d7a3
+UID:c6a35a57-3165-4acd-85be-d8d43a366c9c
 SUMMARY:Вакцинация: польза или риск?
-DTSTAMP:20200301T100500Z
-DTSTART:20200304T110000Z
-DTEND:20200304T114500Z
+DTSTAMP:20200301T123800Z
+DTSTART:20200304T080000Z
+DTEND:20200304T084500Z
 DESCRIPTION:МакИнтош Дэвид - профессор\, почётный главный лектор Имперского
 	 колледжа\, г. Лондон\, Великобритания
 LOCATION:Нижний Новгород, ул. Белинского, 59
