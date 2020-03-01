@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:iacmac.ru
-BEGIN:VTIMEZONE
-TZID:Europe/Moscow
-BEGIN:STANDARD
-TZOFFSETTO:+0300
-TZOFFSETFROM:+0300
-END:STANDARD
-END:VTIMEZONE
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:20190319T160000
-DTSTAMP:20190319T093000
-DTSTART;TZID=Europe/Moscow:20200319T160000
-DTEND;TZID=Europe/Moscow:20200319T163000
-SUMMARY: Нозокомиальная пневмония: новые данные
+UID:db73b447-d8c3-41ed-9d5b-98e840b92033
+SUMMARY:Нозокомиальная пневмония: новые данные
+DTSTAMP:20200301T100500Z
+DTSTART:20200304T160000Z
+DTEND:20200304T163000Z
+DESCRIPTION:Белоцерковский Борис Зиновьевич - кандидат медицинских наук\, д
+	оцент кафедры анестезиологии и реаниматологии ФДПО ФГБОУ ВО «Российский на
+	циональный исследовательский медицинский университет им. Н.И. Пирогова» Ми
+	нистерства здравоохранения Российской Федерации\, заведующий отделением ин
+	тенсивной терапии Центральной клинической больницы Святителя Алексия\, г. 
+	Москва\, Россия
 LOCATION:Нижний Новгород, ул. Белинского, 59
-DESCRIPTION:Докладчик: Белоцерковский Борис Зиновьевич, г. Москва, Россия
 END:VEVENT
 END:VCALENDAR

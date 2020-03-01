@@ -1,20 +1,19 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:iacmac.ru
-BEGIN:VTIMEZONE
-TZID:Europe/Moscow
-BEGIN:STANDARD
-TZOFFSETTO:+0300
-TZOFFSETFROM:+0300
-END:STANDARD
-END:VTIMEZONE
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:20190320T093000
-DTSTAMP:20190319T093000
-DTSTART;TZID=Europe/Moscow:20200320T093000
-DTEND;TZID=Europe/Moscow:20200320T100000
+UID:424ed583-93c7-4442-950e-534412021654
 SUMMARY:Информационные технологии в контроле антибиотикорезистентности
+DTSTAMP:20200301T100500Z
+DTSTART:20200305T093000Z
+DTEND:20200305T100000Z
+DESCRIPTION:Кузьменков Алексей Юрьевич - кандидат медицинских наук\, замест
+	итель директора по биоинформатике НИИ антимикробной химиотерапии ФГБОУ ВО 
+	«Смоленский государственный медицинский университет» Министерства здравоох
+	ранения Российской Федерации\, г. Смоленск\, Россия
 LOCATION:Нижний Новгород, ул. Белинского, 59
-DESCRIPTION:Докладчик: Кузьменков Алексей Юрьевич, Смоленск, Россия
 END:VEVENT
 END:VCALENDAR

@@ -1,20 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:iacmac.ru
-BEGIN:VTIMEZONE
-TZID:Europe/Moscow
-BEGIN:STANDARD
-TZOFFSETTO:+0300
-TZOFFSETFROM:+0300
-END:STANDARD
-END:VTIMEZONE
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:20200320T141500
-DTSTAMP:20200320T121500
-DTSTART;TZID=Europe/Moscow:20200320T141500
-DTEND;TZID=Europe/Moscow:20200320T144500
-SUMMARY:Klebsiella pneumoniae: баланс между эмпирической и этиотропной терапией
+UID:4703732e-ae67-4e8f-9064-74076844290f
+SUMMARY:Klebsiella pneumoniae: баланс между эмпирической и этиотропной тера
+	пией
+DTSTAMP:20200301T100500Z
+DTSTART:20200305T141500Z
+DTEND:20200305T144500Z
+DESCRIPTION:Дехнич Андрей Владимирович - кандидат медицинских наук\, замест
+	итель директора по научной работе НИИ антимикробной химиотерапии ФГБОУ ВО 
+	«Смоленский государственный медицинский университет» Министерства здравоох
+	ранения Российской Федерации\, г. Смоленск\, Россия
 LOCATION:Нижний Новгород, ул. Белинского, 59
-DESCRIPTION:Докладчик: Дехнич Андрей Владимирович, Смоленск, Россия
 END:VEVENT
 END:VCALENDAR

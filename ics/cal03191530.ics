@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:iacmac.ru
-BEGIN:VTIMEZONE
-TZID:Europe/Moscow
-BEGIN:STANDARD
-TZOFFSETTO:+0300
-TZOFFSETFROM:+0300
-END:STANDARD
-END:VTIMEZONE
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:20190319T153000
-DTSTAMP:20190319T093000
-DTSTART;TZID=Europe/Moscow:20200319T153000
-DTEND;TZID=Europe/Moscow:20200319T160000
-SUMMARY:Pseudomonas aeruginosa: ключевые аспекты микробиологической диагностики
+UID:31eee450-9d54-4646-a75f-c91d63ce0809
+SUMMARY:Pseudomonas aeruginosa: ключевые аспекты микробиологической диагнос
+	тики
+DTSTAMP:20200301T100500Z
+DTSTART:20200304T153000Z
+DTEND:20200304T160000Z
+DESCRIPTION:Эйдельштейн Михаил Владимирович - кандидат биологических наук\,
+	 старший научный сотрудник\, руководитель лаборатории антибиотикорезистент
+	ности НИИ антимикробной химиотерапии ФГБОУ ВО «Смоленский государственный 
+	медицинский университет» Министерства здравоохранения Российской Федерации
+	\, г. Смоленск\, Россия
 LOCATION:Нижний Новгород, ул. Белинского, 59
-DESCRIPTION:Докладчик: Эйдельштейн Михаил Владимирович, г. Смоленск, Россия
 END:VEVENT
 END:VCALENDAR

@@ -1,20 +1,19 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:iacmac.ru
-BEGIN:VTIMEZONE
-TZID:Europe/Moscow
-BEGIN:STANDARD
-TZOFFSETTO:+0300
-TZOFFSETFROM:+0300
-END:STANDARD
-END:VTIMEZONE
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:20190319T133000
-DTSTAMP:20190319T093000
-DTSTART;TZID=Europe/Moscow:20200319T133000
-DTEND;TZID=Europe/Moscow:20200319T140000
+UID:dbec5de3-6948-4337-85b7-2d666f2a2cd1
 SUMMARY:Безопасность применения антибиотиков у беременных
+DTSTAMP:20200301T100500Z
+DTSTART:20200304T133000Z
+DTEND:20200304T140000Z
+DESCRIPTION:Стецюк Ольга Ульяновна - кандидат медицинских наук\, старший на
+	учный сотрудник НИИ антимикробной химиотерапии ФГБОУ ВО «Смоленский госуда
+	рственный медицинский университет» Министерства здравоохранения Российской
+	 Федерации\, г. Смоленск\, Россия
 LOCATION:Нижний Новгород, ул. Белинского, 59
-DESCRIPTION:Докладчик: Стецюк Ольга Ульяновна, г. Смоленск, Россия
 END:VEVENT
 END:VCALENDAR

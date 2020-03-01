@@ -1,20 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:iacmac.ru
-BEGIN:VTIMEZONE
-TZID:Europe/Moscow
-BEGIN:STANDARD
-TZOFFSETTO:+0300
-TZOFFSETFROM:+0300
-END:STANDARD
-END:VTIMEZONE
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:190311001145
-DTSTAMP:20190319T093000
-DTSTART;TZID=Europe/Moscow:20200319T123000
-DTEND;TZID=Europe/Moscow:20200319T130000
+UID:1d74361e-0c99-4f28-9beb-e0f6a45137f7
 SUMMARY:Концепция профилактики инфекций в родовспоможении
+DTSTAMP:20200301T100500Z
+DTSTART:20200304T123000Z
+DTEND:20200304T130000Z
+DESCRIPTION:Припутневич Татьяна Валерьевна - доктор медицинских наук\, руко
+	водитель отдела микробиологии\, клинической фармакологии и эпидемиологии\,
+	 ФГБУ «Национальный медицинский исследовательский центр акушерства\, гинек
+	ологии и перинатологии имени академика В.И. Кулакова» Министерства здравоо
+	хранения Российской Федерации\, г. Москва\, Россия
 LOCATION:Нижний Новгород, ул. Белинского, 59
-DESCRIPTION:Докладчик: Припутневич Татьяна Валерьевна, г. Москва, Россия
 END:VEVENT
 END:VCALENDAR

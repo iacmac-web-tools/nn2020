@@ -1,20 +1,17 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:iacmac.ru
-BEGIN:VTIMEZONE
-TZID:Europe/Moscow
-BEGIN:STANDARD
-TZOFFSETTO:+0300
-TZOFFSETFROM:+0300
-END:STANDARD
-END:VTIMEZONE
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:190310001030
-DTSTAMP:20190319T100000
-DTSTART;TZID=Europe/Moscow:20200319T100000
-DTEND;TZID=Europe/Moscow:20200319T103000
+UID:162e8beb-17f6-4c90-9c89-d41cfa7e9257
 SUMMARY:Как улучшить микробиологическую диагностику сепсиса?
+DTSTAMP:20200301T100500Z
+DTSTART:20200304T100000Z
+DTEND:20200304T103000Z
+DESCRIPTION:Иделевич Евгений Александрович - профессор\, Институт медицинск
+	ой микробиологии\, университетская клиника\, г. Мюнстер\, Германия
 LOCATION:Нижний Новгород, ул. Белинского, 59
-DESCRIPTION:Докладчик: Иделевич Евгений Александрович, Мюнстер, Германия
 END:VEVENT
 END:VCALENDAR

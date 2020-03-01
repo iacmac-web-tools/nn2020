@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:iacmac.ru
-BEGIN:VTIMEZONE
-TZID:Europe/Moscow
-BEGIN:STANDARD
-TZOFFSETTO:+0300
-TZOFFSETFROM:+0300
-END:STANDARD
-END:VTIMEZONE
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:20190320T100000
-DTSTAMP:20190319T100000
-DTSTART;TZID=Europe/Moscow:20200320T100000
-DTEND;TZID=Europe/Moscow:20200320T103000
-SUMMARY:Обзор международных рекомендаций по диагностике и терапии грибковых инфекций
+UID:92f1b654-b061-4817-82a2-a374354c0692
+SUMMARY:Обзор международных рекомендаций по диагностике и терапии грибковых
+	 инфекций
+DTSTAMP:20200301T100500Z
+DTSTART:20200305T100000Z
+DTEND:20200305T103000Z
+DESCRIPTION:Климко Николай Николаевич - доктор медицинских наук\, профессор
+	\, заведующий кафедрой клинической микологии\, аллергологии и иммунологии 
+	ФГБОУ ВО «Северо-Западный государственный медицинский университет им. И.И.
+	 Мечникова» Министерства здравоохранения Российской Федерации\, член правл
+	ения МАКМАХ\, г. Санкт-Петербург\, Россия
 LOCATION:Нижний Новгород, ул. Белинского, 59
-DESCRIPTION:Докладчик: Климко Николай Николаевич, Санкт-Петербург, Россия
 END:VEVENT
 END:VCALENDAR

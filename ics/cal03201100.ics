@@ -1,20 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:iacmac.ru
-BEGIN:VTIMEZONE
-TZID:Europe/Moscow
-BEGIN:STANDARD
-TZOFFSETTO:+0300
-TZOFFSETFROM:+0300
-END:STANDARD
-END:VTIMEZONE
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:20190320T110000
-DTSTAMP:20190319T093000
-DTSTART;TZID=Europe/Moscow:20200320T110000
-DTEND;TZID=Europe/Moscow:20200320T114500
-SUMMARY:Обзор российских и зарубежных рекомендаций по внебольничной пневмонии: госпитализированные пациенты
+UID:5fde16d8-768e-4782-bd08-ae12933315d1
+SUMMARY:Обзор российских и зарубежных рекомендаций по внебольничной пневмон
+	ии: госпитализированные пациенты
+DTSTAMP:20200301T100500Z
+DTSTART:20200305T110000Z
+DTEND:20200305T113000Z
+DESCRIPTION:Рачина Светлана Александровна - доктор медицинских наук\, профе
+	ссор кафедры внутренних болезней с курсом кардиологии и функциональной диа
+	гностики имени академика В.С. Моисеева\, ФГАОУ ВО «Российский университет 
+	дружбы народов»\, г. Москва\, Россия
 LOCATION:Нижний Новгород, ул. Белинского, 59
-DESCRIPTION:Докладчик: Рачина Светлана Александровна, Москва, Россия
 END:VEVENT
 END:VCALENDAR

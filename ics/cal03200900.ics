@@ -1,20 +1,17 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:iacmac.ru
-BEGIN:VTIMEZONE
-TZID:Europe/Moscow
-BEGIN:STANDARD
-TZOFFSETTO:+0300
-TZOFFSETFROM:+0300
-END:STANDARD
-END:VTIMEZONE
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:20190320T090000
-DTSTAMP:20190319T093000
-DTSTART;TZID=Europe/Moscow:20200320T090000
-DTEND;TZID=Europe/Moscow:20200320T093000
-SUMMARY: Проблемные вопросы организации периоперационной антибиотикопрофилактики в медицинских организациях РФ
+UID:e809bf3b-1263-48e3-8b72-45f4c17991be
+SUMMARY:Проблемные вопросы организации периоперационной антибиотикопрофилак
+	тики в медицинских организациях РФ
+DTSTAMP:20200301T100500Z
+DTSTART:20200305T090000Z
+DTEND:20200305T093000Z
+DESCRIPTION:Благонравова А.С. - \; Ковалишена О.В. - 
 LOCATION:Нижний Новгород, ул. Белинского, 59
-DESCRIPTION:Докладчики: Благонравова А.С., Ковалишена О.В.
 END:VEVENT
 END:VCALENDAR

@@ -1,20 +1,18 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:iacmac.ru
-BEGIN:VTIMEZONE
-TZID:Europe/Moscow
-BEGIN:STANDARD
-TZOFFSETTO:+0300
-TZOFFSETFROM:+0300
-END:STANDARD
-END:VTIMEZONE
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:20190319T150000
-DTSTAMP:20190319T093000
-DTSTART;TZID=Europe/Moscow:20200319T150000
-DTEND;TZID=Europe/Moscow:20200319T153000
+UID:f0ac547c-3e66-4f8c-97d2-d1414a4103a6
 SUMMARY:Сепсис: ключевые проблемы диагностики и лечения в РФ
+DTSTAMP:20200301T100500Z
+DTSTART:20200304T150000Z
+DTEND:20200304T153000Z
+DESCRIPTION:Кулабухов Владимир Витальевич - кандидат медицинских наук\, Пре
+	зидент Российского Сепсис Форума\, ведущий научный сотрудник ГБУЗ «НИИ ско
+	рой медицинской помощи им. Н.В. Склифосовского ДЗМ»\, г. Москва\, Россия
 LOCATION:Нижний Новгород, ул. Белинского, 59
-DESCRIPTION:Докладчик: Кулабухов Владимир Витальевич, г. Москва, Россия
 END:VEVENT
 END:VCALENDAR

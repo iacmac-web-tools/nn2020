@@ -1,20 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:iacmac.ru
-BEGIN:VTIMEZONE
-TZID:Europe/Moscow
-BEGIN:STANDARD
-TZOFFSETTO:+0300
-TZOFFSETFROM:+0300
-END:STANDARD
-END:VTIMEZONE
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:20200320T134500
-DTSTAMP:20200320T121500
-DTSTART;TZID=Europe/Moscow:20200320T134500
-DTEND;TZID=Europe/Moscow:20200320T141500
+UID:700ff473-54c3-4d28-80c1-d929e92fac4b
 SUMMARY:Сложные вопросы терапии грам(+) инфекций
+DTSTAMP:20200301T100500Z
+DTSTART:20200305T134500Z
+DTEND:20200305T141500Z
+DESCRIPTION:Попов Дмитрий Александрович - врач-бактериолог\, доктор медицин
+	ских наук\, заведующий лабораторией\, профессор кафедры анестезиологии и р
+	еаниматологии с курсом клинической лабораторной диагностики ИПКВК И ПО ФГБ
+	У «Научный центр сердечно-сосудистой хирургии им. А.Н. Бакулева» Министерс
+	тва здравоохранения Российской Федерации\, г. Москва\, Россия
 LOCATION:Нижний Новгород, ул. Белинского, 59
-DESCRIPTION:Докладчик: Попов Дмитрий Александрович, Москва, Россия
 END:VEVENT
 END:VCALENDAR

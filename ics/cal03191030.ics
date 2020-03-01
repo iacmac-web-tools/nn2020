@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:iacmac.ru
-BEGIN:VTIMEZONE
-TZID:Europe/Moscow
-BEGIN:STANDARD
-TZOFFSETTO:+0300
-TZOFFSETFROM:+0300
-END:STANDARD
-END:VTIMEZONE
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:20190319T103000
-DTSTAMP:20190319T10301100
-DTSTART;TZID=Europe/Moscow:20200319T103000
-DTEND;TZID=Europe/Moscow:20200319T110000
-SUMMARY:Внедрение новых антибиотиков в клиническую практику: как достичь консенсуса между потребностями и возможностями?
+UID:5c37eac1-9b0c-40a5-b31a-d97a349e1914
+SUMMARY:Внедрение новых антибиотиков в клиническую практику: как достичь ко
+	нсенсуса между потребностями и возможностями?
+DTSTAMP:20200301T100500Z
+DTSTART:20200304T103000Z
+DTEND:20200304T110000Z
+DESCRIPTION:Зырянов Сергей Кенсаринович - доктор медицинских наук\, професс
+	ор\, заведующий кафедрой общей и клинической фармакологии ФГАОУ ВО «Россий
+	ский университет дружбы народов»\, заместитель главного врача по терапии Г
+	БУЗ «Городская клиническая больница № 24 Департамента здравоохранения горо
+	да Москвы»\, г. Москва\, Россия
 LOCATION:Нижний Новгород, ул. Белинского, 59
-DESCRIPTION:Докладчик: Зырянов Сергей Кенсаринович, Москва, Россия
 END:VEVENT
 END:VCALENDAR

@@ -1,20 +1,19 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:iacmac.ru
-BEGIN:VTIMEZONE
-TZID:Europe/Moscow
-BEGIN:STANDARD
-TZOFFSETTO:+0300
-TZOFFSETFROM:+0300
-END:STANDARD
-END:VTIMEZONE
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:20190319T170000
-DTSTAMP:20190319T093000
-DTSTART;TZID=Europe/Moscow:20200319T170000
-DTEND;TZID=Europe/Moscow:20200319T173000
-SUMMARY: Профилактика инвазивных микозов в онкогематологии
+UID:1409b02e-2bde-41cd-b2dc-230e4bb171a0
+SUMMARY:Профилактика инвазивных микозов в онкогематологии
+DTSTAMP:20200301T100500Z
+DTSTART:20200304T170000Z
+DTEND:20200304T173000Z
+DESCRIPTION:Веселов Александр Валерьевич - кандидат медицинских наук\, заме
+	ститель директора по общим вопросам НИИ антимикробной химиотерапии ФГБОУ В
+	О «Смоленский государственный медицинский университет» Министерства здраво
+	охранения Российской Федерации\, г. Смоленск\, Россия
 LOCATION:Нижний Новгород, ул. Белинского, 59
-DESCRIPTION:Докладчик: Веселов Александр Валерьевич, г. Смоленск, Россия
 END:VEVENT
 END:VCALENDAR

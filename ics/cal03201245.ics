@@ -1,20 +1,19 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:iacmac.ru
-BEGIN:VTIMEZONE
-TZID:Europe/Moscow
-BEGIN:STANDARD
-TZOFFSETTO:+0300
-TZOFFSETFROM:+0300
-END:STANDARD
-END:VTIMEZONE
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:20200320T124500
-DTSTAMP:20200320T121500
-DTSTART;TZID=Europe/Moscow:20200320T124500
-DTEND;TZID=Europe/Moscow:20200320T131500
+UID:ac1d1b7e-f1d2-44b3-a03a-449cf0607b7a
 SUMMARY:Нозокомиальный перитонит: от «простого» к «сложному»
+DTSTAMP:20200301T100500Z
+DTSTART:20200305T124500Z
+DTEND:20200305T131500Z
+DESCRIPTION:Зубарева Надежда Анатольевна - доктор медицинских наук\, профес
+	сор\, кафедра общей хирургии\, ФГБОУ ВО «Пермский государственный медицинс
+	кий университет имени академика Е.А. Вагнера» Министерства здравоохранения
+	 Российской Федерации\, г. Пермь\, Россия
 LOCATION:Нижний Новгород, ул. Белинского, 59
-DESCRIPTION:Докладчик: Зубарева Надежда Анатольевна, Пермь, Россия
 END:VEVENT
 END:VCALENDAR

@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:iacmac.ru
-BEGIN:VTIMEZONE
-TZID:Europe/Moscow
-BEGIN:STANDARD
-TZOFFSETTO:+0300
-TZOFFSETFROM:+0300
-END:STANDARD
-END:VTIMEZONE
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:20190320T103000
-DTSTAMP:20190319T10301100
-DTSTART;TZID=Europe/Moscow:20200320T103000
-DTEND;TZID=Europe/Moscow:20200320T110000
-SUMMARY:Обзор российских и зарубежных рекомендаций по внебольничной пневмонии: амбулаторные пациенты
+UID:56c0ab3c-5e5e-4a5f-92ef-84b569ef9b8c
+SUMMARY:Обзор российских и зарубежных рекомендаций по внебольничной пневмон
+	ии: амбулаторные пациенты
+DTSTAMP:20200301T100500Z
+DTSTART:20200305T103000Z
+DTEND:20200305T110000Z
+DESCRIPTION:Синопальников Александр Игоревич - доктор медицинских наук\, пр
+	офессор\, заведующий кафедрой пульмонологии ФГБОУ ДПО «Российская медицинс
+	кая академия непрерывного профессионального образования» Министерства здра
+	воохранения Российской Федерации\, вице-президент МАКМАХ\, г. Москва\, Рос
+	сия
 LOCATION:Нижний Новгород, ул. Белинского, 59
-DESCRIPTION:Докладчик: Синопальников Александр Игоревич, Москва, Россия
 END:VEVENT
 END:VCALENDAR

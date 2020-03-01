@@ -1,20 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:iacmac.ru
-BEGIN:VTIMEZONE
-TZID:Europe/Moscow
-BEGIN:STANDARD
-TZOFFSETTO:+0300
-TZOFFSETFROM:+0300
-END:STANDARD
-END:VTIMEZONE
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:20190319T163000
-DTSTAMP:20190319T093000
-DTSTART;TZID=Europe/Moscow:20200319T163000
-DTEND;TZID=Europe/Moscow:20200319T170000
-SUMMARY: Фебрильная нейтропения: типичные и нетипичные примеры
+UID:b9f0255c-8016-472d-b183-e55ac0aea261
+SUMMARY:Фебрильная нейтропения: типичные и нетипичные примеры
+DTSTAMP:20200301T100500Z
+DTSTART:20200304T163000Z
+DTEND:20200304T170000Z
+DESCRIPTION:Клясова Галина Александровна - доктор медицинских наук\, профес
+	сор\, руководитель лаборатории клинической бактериологии\, микологии\, ант
+	ибиотической терапии ФГБУ «Национальный медицинский исследовательский цент
+	р гематологии» Министерства здравоохранения Российской Федерации\, г. Моск
+	ва\, Россия
 LOCATION:Нижний Новгород, ул. Белинского, 59
-DESCRIPTION:Докладчик: Клясова Галина Александровна, г. Москва, Россия
 END:VEVENT
 END:VCALENDAR
