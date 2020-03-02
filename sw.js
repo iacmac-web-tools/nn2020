@@ -1,26 +1,60 @@
 const CACHE_VERSION = 1;
 
 const BASE_CACHE_FILES = [
-    '/style.css',
-    '/script.js',
-    '/search.json',
-    '/manifest.json',
-    '/favicon.png',
+    '/css/concated.min.css',
+    '/css/custom.css',
+    '/css/default-skin.min.css',
+    '/css/fontawesome.all.min.css',
+    '/css/hugo-easy-gallery.css',
+    '/css/normalize.min.css',
+    '/css/photoswipe.min.css',
+    '/css/pswp-gallery.css',
+
+    '/js/lunr-search.js',
+    '/js/lunr.ru.js',
+    '/js/lunr.js',
+    '/js/jquery-1.12.4.min.js',
+    '/js/core.min.js',
+
+    '/json/PageIndex.json',
+    '/index.json',
+    '/index.xml',
+
+    '/site.webmanifest',
+    '/favicon.ico',
+    '/android-chrome-512x512.png',
+    '/android-chrome-192x192.png',
+    '/favicon-16x16.png',
+    '/favicon-32x32.png',
+
+
 ];
 
 const OFFLINE_CACHE_FILES = [
-    '/style.css',
-    '/script.js',
-    '/offline/index.html',
+    '/css/concated.min.css',
+    
+    '/js/core.min.js',
+    '/js/jquery-1.12.4.min.js',
+    '/js/lunr-search.js',
+    '/js/lunr.ru.js',
+    '/js/lunr.js',
+
+    '/json/PageIndex.json',
+    '/index.json',
+    '/index.xml',
 ];
 
 const NOT_FOUND_CACHE_FILES = [
-    '/style.css',
-    '/script.js',
+    '/css/concated.min.css',
+    '/css/custom.css',
+    '/css/default-skin.min.css',
+    '/css/fontawesome.all.min.css',
+    '/js/core.min.js',
+    '/post/offline/index.html',
     '/404.html',
 ];
 
-const OFFLINE_PAGE = '/offline/index.html';
+const OFFLINE_PAGE = '/post/offline/index.html';
 const NOT_FOUND_PAGE = '/404.html';
 
 const CACHE_VERSIONS = {

@@ -1,3 +1,25 @@
+/* IACMAC COLORS */
+
+body {
+  background-color: #387469;
+}
+
+.nav-text {
+  color: #fff;
+}
+
+.hamburger-menu button span { 
+  background-color: #fff;
+}
+
+.list-header-title { 
+  color: #fff;
+}
+
+.post-header > h1, h2, h3, h4, h5, h6 {
+  color: #387469;
+}
+
 /* SEARCH INPUT */
 
 #searchinput {
@@ -205,7 +227,7 @@ a.btn-green {
     0 1px 2px rgba(0, 0, 0, 0.08);
   color: #fff;
   display: block;
-  width: 100px;
+  max-width: 200px;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
@@ -219,7 +241,7 @@ a.btn-green {
   transition: background-color 0.1s linear;
 }
 a.btn-green {
-  background-color: rgb(43, 153, 91);
+  background-color: #387469;
   border: 1px solid rgb(33, 126, 74);
 }
 
@@ -254,7 +276,7 @@ button.btn-green {
   transition: background-color 0.1s linear;
 }
 button.btn-green {
-  background-color: rgb(43, 153, 91);
+  background-color: #387469;
   border: 1px solid rgb(33, 126, 74);
 }
 
