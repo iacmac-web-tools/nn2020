@@ -354,6 +354,10 @@ self.__precacheManifest = [
     "revision": "4f252523d4af0b478c810c2547a63e19"
   },
   {
+    "url": "/js/jquery-3.4.1.min.js",
+    "revision": "f832e36068ab203a3f89b1795480d0d7"
+  },
+  {
     "url": "/js/load-photoswipe.js",
     "revision": "04697acbc90064c8cb82c324f8ad5baa"
   },

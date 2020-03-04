@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:f886cc7b-cbd0-4ae0-baa2-d2dbd595bdca
+UID:9e13178a-c56a-49d7-acf5-619cfb8b70cb
 SUMMARY:Вакцинация: польза или риск?
-DTSTAMP:20200304T195400Z
+DTSTAMP:20200304T202200Z
 DTSTART:20200304T080000Z
 DTEND:20200304T084500Z
 DESCRIPTION:МакИнтош Дэвид - профессор\, почётный главный лектор Имперского
