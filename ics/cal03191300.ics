@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:2b0e7467-4a4d-4c97-86c7-da8db54c9d4d
+UID:f5ecb729-c806-4609-a8ad-f4a96713e438
 SUMMARY:Антибактериальная терапия госпитальных инфекций в педиатрии: легаль
 	ные возможности
-DTSTAMP:20200304T091600Z
+DTSTAMP:20200304T092400Z
 DTSTART:20200304T100000Z
 DTEND:20200304T103000Z
 DESCRIPTION:Широкова Татьяна Михайловна - клинический фармаколог\, КОГБУЗ «
