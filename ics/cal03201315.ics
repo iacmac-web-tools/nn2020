@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:dbbdd63c-c2b5-4e4d-8ccb-e49b578c189f
+UID:1d1d019d-c3ba-40e8-87b5-2ed2417cb639
 SUMMARY:Выбор антибиотика в лечении гнойно-некротических форм синдрома диаб
 	етической стопы
-DTSTAMP:20200304T211600Z
+DTSTAMP:20200304T211800Z
 DTSTART:20200305T101500Z
 DTEND:20200305T104500Z
 DESCRIPTION:Мотылева С.В. - 
