@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:eb543abe-35ac-4820-8d3d-428b8d863e52
+UID:b6ffe1c5-d77a-406c-a20f-27ff6ec9e5ce
 SUMMARY:Сложные вопросы терапии грам(+) инфекций
-DTSTAMP:20200304T092400Z
+DTSTAMP:20200304T111400Z
 DTSTART:20200305T104500Z
 DTEND:20200305T111500Z
 DESCRIPTION:Попов Дмитрий Александрович - врач-бактериолог\, доктор медицин
