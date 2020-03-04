@@ -38,10 +38,6 @@ self.__precacheManifest = [
     "revision": "7c6b78e5459946dfb4a0b92f1bc19d61"
   },
   {
-    "url": "/css/fontawesome.all.min.css",
-    "revision": "2a0e11a7655cf7af50d9152727c134ef"
-  },
-  {
     "url": "/css/hugo-easy-gallery.css",
     "revision": "d272072d58f0a8b67e4fccf9dd0801fc"
   },
@@ -384,54 +380,6 @@ self.__precacheManifest = [
   {
     "url": "/js/pswp-init.js",
     "revision": "241d797bd24f8bcfb90519498fc6d802"
-  },
-  {
-    "url": "/webfonts/fa-brands-400.eot",
-    "revision": "57dcda6f368ea90179f75cbdae96c263"
-  },
-  {
-    "url": "/webfonts/fa-brands-400.ttf",
-    "revision": "9ec698d1a597bff5df337094b71ddaaf"
-  },
-  {
-    "url": "/webfonts/fa-brands-400.woff",
-    "revision": "b564da88bbf0c4aa446fa19653713cd1"
-  },
-  {
-    "url": "/webfonts/fa-brands-400.woff2",
-    "revision": "067595ad77ecc0db9c81c8905a7eef32"
-  },
-  {
-    "url": "/webfonts/fa-regular-400.eot",
-    "revision": "3351f435b3c9037fd88aeb04dc1e43bc"
-  },
-  {
-    "url": "/webfonts/fa-regular-400.ttf",
-    "revision": "a0e3ac82940c1998c5977fd4bc1f5ef6"
-  },
-  {
-    "url": "/webfonts/fa-regular-400.woff",
-    "revision": "73cf49a2232c06c920b7a34e36bfb58c"
-  },
-  {
-    "url": "/webfonts/fa-regular-400.woff2",
-    "revision": "4165c2688309cbfb1b877caf8f75afb5"
-  },
-  {
-    "url": "/webfonts/fa-solid-900.eot",
-    "revision": "89e02bae13c9131c7468b1e729339ac1"
-  },
-  {
-    "url": "/webfonts/fa-solid-900.ttf",
-    "revision": "75f38a159982b6bd1704891332d95fa7"
-  },
-  {
-    "url": "/webfonts/fa-solid-900.woff",
-    "revision": "cdfec5cf5e9840889790bcf2c4042583"
-  },
-  {
-    "url": "/webfonts/fa-solid-900.woff2",
-    "revision": "55eb2a60e8181f0e68b558c991973bf0"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {
