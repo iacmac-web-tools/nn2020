@@ -1,4 +1,4 @@
-const CACHE_VERSION = 1;
+const CACHE_VERSION = 2;
 
 const BASE_CACHE_FILES = [
     '/css/concated.min.css',
@@ -26,8 +26,7 @@ const BASE_CACHE_FILES = [
     '/android-chrome-192x192.png',
     '/favicon-16x16.png',
     '/favicon-32x32.png',
-
-
+    'img/overview.jpg'
 ];
 
 const OFFLINE_CACHE_FILES = [
@@ -267,7 +266,7 @@ self.addEventListener(
                                             let age = parseInt((new Date().getTime() - date.getTime()) / 1000);
                                             let ttl = getTTL(event.request.url);
 
-                                            if (ttl &amp;&amp; age > ttl) {
+                                            if (ttl && age > ttl) {
 
                                                 return new Promise(
                                                     (resolve) => {
@@ -319,7 +318,7 @@ self.addEventListener(
                                                 (response) => {
 
                                                     if(response.status < 400) {
-                                                        if (~SUPPORTED_METHODS.indexOf(event.request.method) &amp;&amp; !isBlacklisted(event.request.url)) {
+                                                        if (~SUPPORTED_METHODS.indexOf(event.request.method) && !isBlacklisted(event.request.url)) {
                                                             cache.put(event.request, response.clone());
                                                         }
                                                         return response;
