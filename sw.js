@@ -20,7 +20,7 @@ const BASE_CACHE_FILES = [
     '/index.json',
     '/index.xml',
 
-    '/site.webmanifest',
+    '/manifest.json',
     '/favicon.ico',
     '/android-chrome-512x512.png',
     '/android-chrome-192x192.png',
