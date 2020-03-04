@@ -362,16 +362,16 @@ self.__precacheManifest = [
     "revision": "04697acbc90064c8cb82c324f8ad5baa"
   },
   {
+    "url": "/js/lunr-0.4.1.min.js",
+    "revision": "bd934eee8a276e348c20e6d166c82862"
+  },
+  {
     "url": "/js/lunr-search.js",
     "revision": "3718f7fdc460e7aca3dafb6091e32060"
   },
   {
-    "url": "/js/lunr.js",
-    "revision": "401434baa3179e3cedeea968f8c6ac64"
-  },
-  {
-    "url": "/js/lunr.ru.js",
-    "revision": "a7f9eb93164344d349c81622605f648f"
+    "url": "/js/lunr.ru.min.js",
+    "revision": "698a251fbfb5fa8d09540ac5f76b46a8"
   },
   {
     "url": "/js/photoswipe-ui-default.min.js",
