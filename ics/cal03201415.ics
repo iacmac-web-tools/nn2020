@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:6eba7cc8-5f91-46db-9f4c-9aa6c052173f
+UID:c9a415b2-e655-476c-a072-fc79c7843ad7
 SUMMARY:Klebsiella pneumoniae: баланс между эмпирической и этиотропной тера
 	пией
-DTSTAMP:20200304T211800Z
+DTSTAMP:20200305T084300Z
 DTSTART:20200305T111500Z
 DTEND:20200305T114500Z
 DESCRIPTION:Дехнич Андрей Владимирович - кандидат медицинских наук\, замест
