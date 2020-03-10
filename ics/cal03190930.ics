@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:a96358e1-080e-4071-acce-5dab5f18fc6c
+UID:ebfd7df1-eb71-4d2d-b36c-2c26873a23ae
 SUMMARY:Перспективные направления контроля антибиотикорезистентности
-DTSTAMP:20200306T084100Z
+DTSTAMP:20200310T105100Z
 DTSTART:20200304T063000Z
 DTEND:20200304T070000Z
 DESCRIPTION:Козлов Роман Сергеевич - доктор медицинских наук\, профессор\, 

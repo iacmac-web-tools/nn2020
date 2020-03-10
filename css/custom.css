@@ -20,6 +20,11 @@ body {
   color: #387469;
 }
 
+/* HIDE FIELDS ISSO COMMENTS */
+
+#website { 
+  display: none;
+}
 
 /* SEARCH INPUT */
 
