@@ -13,7 +13,7 @@
 
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
-workbox.core.setCacheNameDetails({prefix: "iacmac-conference-nn2020-2020-3-11"});
+workbox.core.setCacheNameDetails({prefix: "iacmac-conference-nn2020"});
 
 workbox.core.skipWaiting();
 
