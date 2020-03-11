@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:82b31663-468c-4a22-87ac-cdb71f7c052b
+UID:1350dabf-c592-4118-bde4-6918fc745947
 SUMMARY:Обзор российских и зарубежных рекомендаций по внебольничной пневмон
 	ии: амбулаторные пациенты
-DTSTAMP:20200311T101000Z
+DTSTAMP:20200311T101600Z
 DTSTART:20200305T073000Z
 DTEND:20200305T080000Z
 DESCRIPTION:Синопальников Александр Игоревич - доктор медицинских наук\, пр
