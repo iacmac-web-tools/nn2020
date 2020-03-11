@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:a406a9ba-e566-4be3-bcc3-87abb9bd533e
+UID:016c984f-f0b7-446c-b4e8-348e6aa2cff4
 SUMMARY:Нозокомиальная пневмония: новые данные
-DTSTAMP:20200310T200900Z
+DTSTAMP:20200311T100200Z
 DTSTART:20200304T130000Z
 DTEND:20200304T133000Z
 DESCRIPTION:Белоцерковский Борис Зиновьевич - кандидат медицинских наук\, д

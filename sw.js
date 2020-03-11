@@ -30,6 +30,10 @@ self.__precacheManifest = [
     "revision": "8c1693860b4b0a94c6ffe22fc8ae23c3"
   },
   {
+    "url": "/css/cookieconsent.min.css",
+    "revision": "acf82ee47549fdc386d02768992a49ad"
+  },
+  {
     "url": "/css/custom.css",
     "revision": "f1cd4ab529a5fb1217ea8db4b35d65dc"
   },
@@ -340,6 +344,10 @@ self.__precacheManifest = [
   {
     "url": "/font/LatoLatin-ThinItalic.woff2",
     "revision": "7c534cc0e8a56ee70fbe5eb39ee2cedb"
+  },
+  {
+    "url": "/js/cookieconsent.min.js",
+    "revision": "4a48532bf0b17c058b8b6854f49de23f"
   },
   {
     "url": "/js/core.min.js",
