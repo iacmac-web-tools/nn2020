@@ -5,14 +5,13 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:f73ca379-453b-420b-b462-f93a1ac07704
+UID:7899dd3a-5066-4753-af5a-5ae85487478e
 SUMMARY:Антибактериальная терапия госпитальных инфекций в педиатрии: легаль
 	ные возможности
-DTSTAMP:20200312T203000Z
+DTSTAMP:20200312T205600Z
 DTSTART:20200319T100000Z
 DTEND:20200319T103000Z
 DESCRIPTION:Широкова Татьяна Михайловна - клинический фармаколог\, КОГБУЗ «
 	Кировский областной клинический перинатальный центр»\, г. Киров\, Россия
-LOCATION:Нижний Новгород, ул. Белинского, 59
 END:VEVENT
 END:VCALENDAR
