@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:2e833fb1-f533-48c6-91eb-b6ff9a67518a
+UID:ad487115-3ccb-4553-862a-1f120114f3b3
 SUMMARY:Как улучшить микробиологическую диагностику сепсиса?
-DTSTAMP:20200312T125900Z
+DTSTAMP:20200312T180700Z
 DTSTART:20200304T070000Z
 DTEND:20200304T073000Z
 DESCRIPTION:Иделевич Евгений Александрович - профессор\, Институт медицинск

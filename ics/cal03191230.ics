@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:abba454c-a814-480b-9bc7-b69b09c2c67e
+UID:4565484a-7062-4996-a762-3eb0c9b7fba8
 SUMMARY:Концепция профилактики инфекций в родовспоможении
-DTSTAMP:20200312T125900Z
+DTSTAMP:20200312T180700Z
 DTSTART:20200304T093000Z
 DTEND:20200304T100000Z
 DESCRIPTION:Припутневич Татьяна Валерьевна - доктор медицинских наук\, руко
