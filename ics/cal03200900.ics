@@ -5,12 +5,12 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:8b7a6b08-509e-4ea1-a0ff-08c7e6bdac8b
+UID:6687fe25-7df9-444e-8893-d00625cf9602
 SUMMARY:Проблемные вопросы организации периоперационной антибиотикопрофилак
 	тики в медицинских организациях РФ
-DTSTAMP:20200312T180700Z
-DTSTART:20200305T060000Z
-DTEND:20200305T063000Z
+DTSTAMP:20200312T190500Z
+DTSTART:20200305T090000Z
+DTEND:20200305T093000Z
 DESCRIPTION:Благонравова А.С. - \; Ковалишена О.В. - 
 LOCATION:Нижний Новгород, ул. Белинского, 59
 END:VEVENT
