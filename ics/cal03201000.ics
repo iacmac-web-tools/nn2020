@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:6829f4fe-5fad-4287-9a8d-27e8354b7cca
+UID:e319f90f-ca34-46b0-8b19-5d7bea469ecf
 SUMMARY:Обзор международных рекомендаций по диагностике и терапии грибковых
 	 инфекций
-DTSTAMP:20200311T105100Z
+DTSTAMP:20200312T125900Z
 DTSTART:20200305T070000Z
 DTEND:20200305T073000Z
 DESCRIPTION:Климко Николай Николаевич - доктор медицинских наук\, профессор

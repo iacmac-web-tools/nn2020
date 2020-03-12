@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:e922428e-6ffc-4e81-aa1a-7ebcd1b18378
+UID:8aae3f26-d115-44bb-8410-ccb651ef5d0e
 SUMMARY:Информационные технологии в контроле антибиотикорезистентности
-DTSTAMP:20200311T105100Z
+DTSTAMP:20200312T125900Z
 DTSTART:20200305T063000Z
 DTEND:20200305T070000Z
 DESCRIPTION:Кузьменков Алексей Юрьевич - кандидат медицинских наук\, замест

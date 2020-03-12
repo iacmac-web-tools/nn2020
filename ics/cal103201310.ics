@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:e009c46b-bb88-4b52-98f5-28af95b7a2a4
+SUMMARY:Новая специальность «Медицинская микробиология» и профстандарт. Акт
+	уальные проблемы.
+DTSTAMP:20200312T125900Z
+DTSTART:20200305T101000Z
+DTEND:20200305T103500Z
+DESCRIPTION:Васильева Наталья Всеволодовна - \; Нижегородцева Ирина Алексан
+	дровна - 
+LOCATION:Нижний Новгород, ул. Белинского, 59
+END:VEVENT
+END:VCALENDAR

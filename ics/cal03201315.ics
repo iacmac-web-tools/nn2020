@@ -5,13 +5,14 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:61a7a254-9a30-4fdb-8444-5354a8480ba2
+UID:4902bb03-717e-4df9-93a8-d5c1b901fd9a
 SUMMARY:Выбор антибиотика в лечении гнойно-некротических форм синдрома диаб
 	етической стопы
-DTSTAMP:20200311T105100Z
+DTSTAMP:20200312T125900Z
 DTSTART:20200305T101500Z
 DTEND:20200305T104500Z
-DESCRIPTION:Мотылева С.В. - 
+DESCRIPTION:Мотылёва Светлана Владимировна - врач-клинический фармаколог ГБ
+	УЗ НО «Городская больница №33» г. Нижний Новгород\, Россия
 LOCATION:Нижний Новгород, ул. Белинского, 59
 END:VEVENT
 END:VCALENDAR
