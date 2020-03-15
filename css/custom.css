@@ -103,6 +103,11 @@ body {
   margin-top: 0em;
 }
 
+.person-block { 
+  display: flex;
+    flex-direction: row;
+}
+
 .card-img-container-person {
   order: 2;
   flex-basis: 50%;
