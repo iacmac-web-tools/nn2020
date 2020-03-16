@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:6cd23f7b-7d73-479a-81d1-0b112bef2333
+UID:3794df16-38ae-4169-a1ed-f76214a7849f
 SUMMARY:Сепсис: ключевые проблемы диагностики и лечения в РФ
-DTSTAMP:20200315T215100Z
+DTSTAMP:20200316T103600Z
 DTSTART:20200319T120000Z
 DTEND:20200319T123000Z
 DESCRIPTION:Кулабухов Владимир Витальевич - кандидат медицинских наук\, Пре

@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:972c091e-17f4-4524-8bd9-1fbd9afea4cd
+UID:ea7aba69-e745-4c90-babd-a68330ffe0d6
 SUMMARY:Обзор российских и зарубежных рекомендаций по внебольничной пневмон
 	ии: госпитализированные пациенты
-DTSTAMP:20200315T215100Z
+DTSTAMP:20200316T103600Z
 DTSTART:20200320T080000Z
 DTEND:20200320T083000Z
 DESCRIPTION:Рачина Светлана Александровна - доктор медицинских наук\, профе

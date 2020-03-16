@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:1887ff09-0f74-48b7-9a09-80c711a853b5
+UID:bb5d6c1a-a963-4b67-9fd7-0746b04d5dd3
 SUMMARY:Фебрильная нейтропения: типичные и нетипичные примеры
-DTSTAMP:20200315T215100Z
+DTSTAMP:20200316T103600Z
 DTSTART:20200319T133000Z
 DTEND:20200319T140000Z
 DESCRIPTION:Клясова Галина Александровна - доктор медицинских наук\, профес

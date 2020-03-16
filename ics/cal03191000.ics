@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:4cd5ceeb-6abc-429c-8702-5b0c41c7dc79
+UID:6abfa4a2-b211-4efb-bc15-5c251b018a5d
 SUMMARY:Как улучшить микробиологическую диагностику сепсиса?
-DTSTAMP:20200315T215100Z
+DTSTAMP:20200316T103600Z
 DTSTART:20200319T070000Z
 DTEND:20200319T073000Z
 DESCRIPTION:Сухорукова Марина Витальевна - кандидат медицинских наук\, руко
