@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:94ef6f4d-7494-4c14-9de5-9b50d45f523d
+UID:26f6a6da-bf08-48a5-96f4-3fd09e22b393
 SUMMARY:Безопасность применения антибиотиков у беременных
-DTSTAMP:20200615T122400Z
+DTSTAMP:20200728T111000Z
 DTSTART:20201008T103000Z
 DTEND:20201008T110000Z
 DESCRIPTION:Стецюк Ольга Ульяновна - кандидат медицинских наук\, старший на
