@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:8be65767-a63f-4560-a893-2444205161e7
+UID:bf4b4d39-09cd-4b77-88ff-b64db1139c08
 SUMMARY:Внедрение новых антибиотиков в клиническую практику: как достичь ко
 	нсенсуса между потребностями и возможностями?
-DTSTAMP:20200728T111000Z
+DTSTAMP:20200913T072900Z
 DTSTART:20201008T073000Z
 DTEND:20201008T080000Z
 DESCRIPTION:Зырянов Сергей Кенсаринович - доктор медицинских наук\, професс

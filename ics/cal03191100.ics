@@ -5,12 +5,13 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:eb595790-fe60-4ccb-9e29-adf9fb92ab8f
+UID:2c595a72-fe11-41b6-89f0-57fcb5775781
 SUMMARY:Вакцинация: польза или риск?
-DTSTAMP:20200728T111000Z
+DTSTAMP:20200913T072900Z
 DTSTART:20201008T080000Z
 DTEND:20201008T084500Z
-DESCRIPTION:МакИнтош Дэвид - профессор\, почётный главный лектор Имперского
-	 колледжа\, г. Лондон\, Великобритания
+DESCRIPTION:Харит Сусанна Михайловна - руководитель отдела профилактики инф
+	екционных заболеваний Научно-исследовательского Института детских инфекций
+	 ФМБА\, Россия
 END:VEVENT
 END:VCALENDAR

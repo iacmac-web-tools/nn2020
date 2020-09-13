@@ -8,11 +8,11 @@ body {
   color: #fff;
 }
 
-.hamburger-menu button span { 
+.hamburger-menu button span {
   background-color: #fff;
 }
 
-.list-header-title { 
+.list-header-title {
   color: #fff;
 }
 
@@ -22,7 +22,7 @@ body {
 
 /* HIDE FIELDS ISSO COMMENTS */
 
-#website { 
+#website {
   display: none;
 }
 
@@ -103,7 +103,7 @@ body {
   margin-top: 0em;
 }
 
-.person-block { 
+.person-block {
   display: flex;
     flex-direction: row;
 }
@@ -169,7 +169,7 @@ body {
     flex-wrap: nowrap;
   }
 
-  .mobile-only{ 
+  .mobile-only{
     display: none;
   }
 
@@ -261,7 +261,7 @@ a.btn-green:hover {
   background-color: rgb(75, 183, 141);
 }
 
-span.btn-text { 
+span.btn-text {
   margin-left: 0.25em;
 }
 
@@ -345,7 +345,7 @@ button.btn-gray:hover {
   animation-duration: 0.4s;
 }
 
-.btn-slack-modal { 
+.btn-slack-modal {
   display: block;
 }
 
@@ -391,7 +391,7 @@ h5 {
   margin: 0px;
 }
 
-.modal-title { 
+.modal-title {
   font-size: 1.5rem;
   margin: 0.25rem;
 }
@@ -441,7 +441,7 @@ h5 {
   font-weight: 400;
 }
 .text-muted {
-  color: 
+  color:
   #6c757d !important;
 }
 
@@ -487,3 +487,19 @@ h5 {
 }
 
 /* END OF SLACK MODAL */
+
+/* LABEL */
+
+.label {
+  color: white;
+  padding: 8px;
+  border-radius: 4px;
+  font-style: italic;
+  font-size: 14px;
+}
+
+.success {background-color: #4CAF50;} /* Green */
+.info {background-color: #2196F3;} /* Blue */
+.warning {background-color: #ff9800;} /* Orange */
+.danger {background-color: #f44336;} /* Red */
+.other {background-color: #e7e7e7; color: black;} /* Gray */
