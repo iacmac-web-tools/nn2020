@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:dafc1707-ecd4-43f2-bbb6-08627f45c63b
+UID:a9068d1e-ac11-4f4b-930d-e677e6acd207
 SUMMARY:Концепция профилактики инфекций в родовспоможении
-DTSTAMP:20200913T072900Z
+DTSTAMP:20200922T184300Z
 DTSTART:20201008T093000Z
 DTEND:20201008T100000Z
 DESCRIPTION:Любасовская Людмила Анатольевна - кандидат медицинских наук\, з
