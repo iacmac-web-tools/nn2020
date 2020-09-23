@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:806edecd-7a46-4034-9a6d-27a48f7f2540
+UID:204e8d64-5ab7-4709-8dc0-93c02cf1a110
 SUMMARY:Современные перспективы и проблемы микробиологической службы Нижего
 	родской области.
-DTSTAMP:20200922T184300Z
+DTSTAMP:20200923T080500Z
 DTSTART:20201009T103500Z
 DTEND:20201009T110000Z
 DESCRIPTION:Макарова Светлана Юрьевна - главный внештатный специалист по кл

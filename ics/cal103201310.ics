@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:fb7d1ac3-071a-4907-bf11-0d191989c108
+UID:4ede9dfb-ca90-456a-9014-3565b4b1fb50
 SUMMARY:Новая специальность «Медицинская микробиология» и профстандарт. Акт
 	уальные проблемы.
-DTSTAMP:20200922T184300Z
+DTSTAMP:20200923T080500Z
 DTSTART:20201009T101000Z
 DTEND:20201009T103500Z
 DESCRIPTION:Васильева Наталья Всеволодовна - \; Нижегородцева Ирина Алексан

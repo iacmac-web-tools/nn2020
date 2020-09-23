@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:973d01d5-c167-49c2-9325-9cb79faf57d9
+UID:64589e7c-deb3-4352-8fd4-ad9c8f5f2d88
 SUMMARY:Перспективные направления контроля антибиотикорезистентности
-DTSTAMP:20200922T184300Z
+DTSTAMP:20200923T080500Z
 DTSTART:20201008T063000Z
 DTEND:20201008T070000Z
 DESCRIPTION:Дехнич Андрей Владимирович - кандидат медицинских наук\, замест

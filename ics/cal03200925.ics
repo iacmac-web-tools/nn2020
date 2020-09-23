@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:47e762f6-5307-4d52-ad1e-4ddff823b5b1
+UID:28db32db-9184-4cc7-851c-118489f6a1b7
 SUMMARY:Проблемные вопросы организации периоперационной антибиотикопрофилак
 	тики в медицинских организациях РФ
-DTSTAMP:20200922T184300Z
+DTSTAMP:20200923T080500Z
 DTSTART:20201009T062500Z
 DTEND:20201009T065000Z
 DESCRIPTION:Благонравова Анна Сергеевна - д.м.н.\, профессор кафедры эпидем

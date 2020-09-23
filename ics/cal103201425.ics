@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:650251cc-542d-4b14-85ed-e19c19b385cc
+UID:b9212419-efde-4761-8136-bfef3722ec2e
 SUMMARY:Новое в рекомендациях по определению чувствительности к антимикробн
 	ым препаратам. Зона технической неопределенности: Terra Incognita?
-DTSTAMP:20200922T184300Z
+DTSTAMP:20200923T080500Z
 DTSTART:20201009T112500Z
 DTEND:20201009T115000Z
 DESCRIPTION:Иванчик Натали Владимировна - кандидат медицинских наук\, старш
