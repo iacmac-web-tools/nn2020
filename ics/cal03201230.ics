@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:82356516-24cc-4b98-b2ff-dcbf66d16124
+UID:7c1cdc81-7403-4d4f-aa2c-da3c2f09bd91
 SUMMARY:Инфекционный контроль в вопросах и ответах: предварительные результ
 	аты проекта «Эффективный стационар»
-DTSTAMP:20200923T080500Z
+DTSTAMP:20200925T072900Z
 DTSTART:20201009T093000Z
 DTEND:20201009T095500Z
 DESCRIPTION:Ершова Ольга Николаевна - доктор медицинских наук\, профессор к
