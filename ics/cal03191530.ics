@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:9add19cd-0cf4-4f29-99f6-2114f6ea9dce
+UID:2521f035-9f51-4b89-ab18-44d781fbb5db
 SUMMARY:Pseudomonas aeruginosa: ключевые аспекты микробиологической диагнос
 	тики
-DTSTAMP:20200925T072900Z
+DTSTAMP:20200930T144600Z
 DTSTART:20201008T123000Z
 DTEND:20201008T130000Z
 DESCRIPTION:Эйдельштейн Михаил Владимирович - кандидат биологических наук\,

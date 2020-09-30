@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:cbf8393c-87e5-4aeb-b8f2-3427f0dbfef9
+UID:f053ac4b-6692-4018-9a9d-89e255071370
 SUMMARY:Профилактика инвазивных микозов в онкогематологии
-DTSTAMP:20200925T072900Z
+DTSTAMP:20200930T144600Z
 DTSTART:20201008T140000Z
 DTEND:20201008T143000Z
 DESCRIPTION:Веселов Александр Валерьевич - кандидат медицинских наук\, заме
