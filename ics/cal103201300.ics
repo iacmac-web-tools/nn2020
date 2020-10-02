@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:9db98c2f-7fda-4d63-9e20-6a2fdaf48692
+UID:42451077-4afb-4a31-8ed7-d0a5d29f939b
 SUMMARY:Приветственное слово Главного внештатного специалиста Минздрава Рос
 	сии по клинической микробиологии и антимикробной резистентности.
-DTSTAMP:20200930T144600Z
+DTSTAMP:20201002T084500Z
 DTSTART:20201009T100000Z
 DTEND:20201009T101000Z
 DESCRIPTION:Козлов Роман Сергеевич - доктор медицинских наук\, профессор\, 
