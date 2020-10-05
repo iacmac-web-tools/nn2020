@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:8fd967e6-2b76-4306-beff-c48a294426e2
+UID:3b487f97-d3ce-4bc8-9c42-0cdde4a843a4
 SUMMARY:Новое в рекомендациях по определению чувствительности к антимикробн
 	ым препаратам. Зона технической неопределенности: Terra Incognita?
-DTSTAMP:20201002T084500Z
+DTSTAMP:20201005T081800Z
 DTSTART:20201009T112500Z
 DTEND:20201009T115000Z
 DESCRIPTION:Эйдельштейн Михаил Владимирович - кандидат биологических наук\,
