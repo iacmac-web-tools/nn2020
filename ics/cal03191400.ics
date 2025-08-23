@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:e9dc00d6-d3f1-426e-9fc9-b005ea855e88
+UID:adb84653-c81e-40d8-b653-1e179d3da43b
 SUMMARY:Антибиотикотерапия внебольничных инфекций мочевых путей у беременны
 	х
-DTSTAMP:20201005T081800Z
+DTSTAMP:20250823T185800Z
 DTSTART:20201008T110000Z
 DTEND:20201008T113000Z
 DESCRIPTION:Палагин Иван Сергеевич - ассистент кафедры урологии\, ФГБОУ ВО 

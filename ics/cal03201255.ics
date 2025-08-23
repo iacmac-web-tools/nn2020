@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:d89e9e3c-f760-402d-add3-f9bccda52356
+UID:9053efd4-fb82-4128-a63e-00e324f2c32a
 SUMMARY:Нозокомиальный перитонит: от «простого» к «сложному»
-DTSTAMP:20201005T081800Z
+DTSTAMP:20250823T185800Z
 DTSTART:20201009T095500Z
 DTEND:20201009T102000Z
 DESCRIPTION:Зубарева Надежда Анатольевна - доктор медицинских наук\, профес

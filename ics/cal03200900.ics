@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:2c719201-0621-499d-a2a1-a7df6725a96b
+UID:1c47128a-866f-4cc5-ad2a-c4d9c83c88c5
 SUMMARY:Вакцинация в борьбе с резистентностью к антимикробным препаратам: д
 	оказательная база
-DTSTAMP:20201005T081800Z
+DTSTAMP:20250823T185800Z
 DTSTART:20201009T060000Z
 DTEND:20201009T062500Z
 DESCRIPTION:Козлов Роман Сергеевич - доктор медицинских наук\, профессор\, 
